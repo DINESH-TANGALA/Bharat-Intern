@@ -8,6 +8,12 @@ House Price Prediction :
 
 Dataset : https://www.kaggle.com/datasets/ashydv/housing-dataset
 
+TASK : 1
+
+Movie Recomendation :
+
+"Machine Learning model to Recommend movies  Jupyter notebook code.."
+
 
 
 TASK : 3

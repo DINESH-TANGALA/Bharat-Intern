@@ -8,7 +8,7 @@ House Price Prediction :
 
 Dataset : https://www.kaggle.com/datasets/ashydv/housing-dataset
 
-TASK : 1
+TASK : 2
 
 Movie Recomendation :
 
